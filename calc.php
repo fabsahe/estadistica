@@ -123,7 +123,7 @@
             $vall = $value;
           }
         }
-        echo "MODA = ".$moda.", con frecuencia = ".$cont_new;
+        echo "MODA = ".$moda.", con frecuencia = ".$vall;
         echo "<br><br>";
         if( $media<$mediana ) {
           echo "<p>Notamos que la media es menor a la mediana, por lo tanto la distribución de los datos es asimétrica con cola a la izquierda (sesgada a la izquierda)</p>";
