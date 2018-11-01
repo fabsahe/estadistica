@@ -1,0 +1,22 @@
+.bg-greenfab {
+    background-color: #259CB4;
+}
+#btn-calc {
+    display:none;
+}
+.upload {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 170px;
+}
+img[src="https://cdn.rawgit.com/000webhost/logo/e9bd13f7/footer-powered-by-000webhost-white2.png"] {
+    display: none;
+}
+
+.info-datos {
+    margin: 0 ;
+    padding: 20px 0 10px 0;
+    background-color: #C2DAE0;
+}
